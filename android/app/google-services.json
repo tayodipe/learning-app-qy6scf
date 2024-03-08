@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300092331124",
+    "project_id": "online-leraning-app",
+    "storage_bucket": "online-leraning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300092331124:android:504b549296780e2ae1ad21",
+        "android_client_info": {
+          "package_name": "com.mycompany.learningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9OzSsk8smISBjPpNh8870G9IXkrqDNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

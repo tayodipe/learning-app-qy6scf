@@ -24,6 +24,10 @@ Here are some of the essential Flutter features utilized in this project:
 - ## Animations
   Flutter's built-in animation capabilities have allowed me to add fluid and delightful animations to the app, enhancing user interaction and providing a polished user experience.
 
+# Below is the app from figma 
+
+![Screenshot 2024-03-08 at 03 26 19 (2)](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/55be87af-cff2-4d09-b84e-60ba488c649f)
+
   # Feedback
   I'm constantly looking to improve and refine my skills as a Flutter developer. If you have any feedback, suggestions, or questions about this project, please don't hesitate to reach out. Your insights are invaluable to me as I continue to grow in my journey as a frontend developer.
 Thank you for visiting my Flutter portfolio app!

@@ -28,6 +28,16 @@ Here are some of the essential Flutter features utilized in this project:
 
 ![Screenshot 2024-03-08 at 03 26 19 (2)](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/55be87af-cff2-4d09-b84e-60ba488c649f)
 
+# Below are some of the pages from the app. 
+
+![Screenshot 2024-03-08 at 10 42 31](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/ae945b88-6f4a-42fb-b401-864ca4d3082d)
+
+![Screenshot 2024-03-08 at 10 42 27](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/ce16d63d-3c59-4d96-a47b-a3a92338087c)
+
+![Screenshot 2024-03-08 at 10 42 14](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/e7834cbf-987c-4698-aacb-01fa1f92e163)
+
+![Screenshot 2024-03-08 at 10 42 10](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/a65b3915-2a90-44ca-a746-82f48c87827e)
+
   # Feedback
   I'm constantly looking to improve and refine my skills as a Flutter developer. If you have any feedback, suggestions, or questions about this project, please don't hesitate to reach out. Your insights are invaluable to me as I continue to grow in my journey as a frontend developer.
 Thank you for visiting my Flutter portfolio app!

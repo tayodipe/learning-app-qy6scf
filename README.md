@@ -30,13 +30,19 @@ Here are some of the essential Flutter features utilized in this project:
 
 # Below are some of the pages from the app. 
 
-![Screenshot 2024-03-11 at 18 41 58](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/e1a75154-aa95-4574-974e-9c9a008f6695)
+![Screenshot 2024-03-11 at 18 49 22](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/a66a58ea-239b-435f-9539-20f9bea8c8be)
 
-![Screenshot 2024-03-11 at 18 42 24](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/15e50b3a-3912-447f-981c-4524fab9eaaa)
+![Screenshot 2024-03-11 at 18 49 30](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/baca97ea-8423-4186-b37d-c86d5096084b)
 
-![Screenshot 2024-03-11 at 18 42 06](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/605e2e35-665e-405e-9fd0-6e7a5b5b13cc)
+![Screenshot 2024-03-11 at 18 49 35](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/af346b10-b6b5-4539-86ab-94ff003451ea)
 
-![Screenshot 2024-03-11 at 18 41 41](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/c1d28d23-fc23-46a5-9476-9d2501261a80)
+![Screenshot 2024-03-11 at 18 48 51](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/501cfb18-0dfd-47af-b42a-48a4e4940df2)
+
+![Screenshot 2024-03-11 at 18 49 06](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/eeeab1f7-4350-4c05-a149-e78cb2a279c1)
+
+
+![Screenshot 2024-03-11 at 18 49 14](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/43ce12f2-7937-47b0-9b83-1ef741aa08de)
+
 
 
 

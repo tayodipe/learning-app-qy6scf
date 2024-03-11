@@ -30,13 +30,13 @@ Here are some of the essential Flutter features utilized in this project:
 
 # Below are some of the pages from the app. 
 
-![Screenshot 2024-03-08 at 10 42 31](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/ae945b88-6f4a-42fb-b401-864ca4d3082d)
+![Screenshot 2024-03-11 at 18 02 08](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/b6876850-5ae9-4415-bd4a-e402a91d5d06)
 
-![Screenshot 2024-03-08 at 10 42 27](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/ce16d63d-3c59-4d96-a47b-a3a92338087c)
+![Screenshot 2024-03-11 at 18 02 18](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/87f81eab-a2cf-4cb3-8ce1-26ff36e81662)
 
-![Screenshot 2024-03-08 at 10 42 14](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/e7834cbf-987c-4698-aacb-01fa1f92e163)
+![Screenshot 2024-03-11 at 18 02 45](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/0324ddae-7b50-4ea7-b3fa-736248ec7bb9)
 
-![Screenshot 2024-03-08 at 10 42 10](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/a65b3915-2a90-44ca-a746-82f48c87827e)
+
 
   # Feedback
   I'm constantly looking to improve and refine my skills as a Flutter developer. If you have any feedback, suggestions, or questions about this project, please don't hesitate to reach out. Your insights are invaluable to me as I continue to grow in my journey as a frontend developer.

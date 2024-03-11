@@ -30,11 +30,13 @@ Here are some of the essential Flutter features utilized in this project:
 
 # Below are some of the pages from the app. 
 
-![Screenshot 2024-03-11 at 18 02 08](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/b6876850-5ae9-4415-bd4a-e402a91d5d06)
+![Screenshot 2024-03-11 at 18 41 58](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/e1a75154-aa95-4574-974e-9c9a008f6695)
 
-![Screenshot 2024-03-11 at 18 02 18](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/87f81eab-a2cf-4cb3-8ce1-26ff36e81662)
+![Screenshot 2024-03-11 at 18 42 24](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/15e50b3a-3912-447f-981c-4524fab9eaaa)
 
-![Screenshot 2024-03-11 at 18 02 45](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/0324ddae-7b50-4ea7-b3fa-736248ec7bb9)
+![Screenshot 2024-03-11 at 18 42 06](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/605e2e35-665e-405e-9fd0-6e7a5b5b13cc)
+
+![Screenshot 2024-03-11 at 18 41 41](https://github.com/tayodipe/learning-app-qy6scf/assets/127683158/c1d28d23-fc23-46a5-9476-9d2501261a80)
 
 
 
